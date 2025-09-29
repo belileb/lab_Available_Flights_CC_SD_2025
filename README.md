@@ -23,6 +23,6 @@ cd cloud-computing-and-software-development-2025
 rm -rf /var/www/html/*
 mv ./src/* /var/www/html
 
-echo 'Done :)'
+echo "Done ;-)"
 ```
 29.9.2025.
